@@ -27,13 +27,7 @@ The app will open at http://localhost:8501
 - **Real Mode**: If `ultralytics` and `easyocr` are installed, uses actual YOLOv8 + EasyOCR
 - **Simulation Mode**: Falls back to realistic mock detections if models aren't available
 
-## Deploy to Streamlit Cloud (Free)
-
-1. Push this folder to a GitHub repo
-2. Go to https://share.streamlit.io
-3. Connect your repo
-4. Set `app.py` as the main file
-5. Deploy! You'll get a public URL like `https://yourapp.streamlit.app`
+Deployed app: `https://gridlock-3peasinapod.streamlit.app/`
 
 ## Sample Images for Testing
 
