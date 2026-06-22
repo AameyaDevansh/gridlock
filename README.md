@@ -15,6 +15,10 @@ streamlit run app.py
 ### 3. Open in browser
 The app will open at http://localhost:8501
 
+
+Deployed app: https://gridlock-3peasinapod.streamlit.app/
+
+
 ## Features
 
 - **Violation Detection**: Upload traffic images → get annotated results with detected violations
@@ -27,7 +31,6 @@ The app will open at http://localhost:8501
 - **Real Mode**: If `ultralytics` and `easyocr` are installed, uses actual YOLOv8 + EasyOCR
 - **Simulation Mode**: Falls back to realistic mock detections if models aren't available
 
-Deployed app: `https://gridlock-3peasinapod.streamlit.app/`
 
 ## Sample Images for Testing
 
